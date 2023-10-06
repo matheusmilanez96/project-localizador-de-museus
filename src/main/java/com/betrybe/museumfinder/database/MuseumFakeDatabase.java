@@ -16,6 +16,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import org.springframework.stereotype.Component;
 
+// Iniciando o projeto.
 /**
  * Class that simulates a fake database/repository.
  */
